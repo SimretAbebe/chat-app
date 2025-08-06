@@ -1,7 +1,6 @@
-###✨ Full Stack Realtime Chat App ✨
+##✨ Full Stack Realtime Chat App ✨
 
-## A full-stack real-time chat application built with **MERN**, **Socket.io**, and **Zustand**.
-## Features include real-time messaging, authentication, online user status, media uploads, and much more — all beautifully styled with **TailwindCSS + DaisyUI**.
+A full-stack real-time chat application built with **MERN**, **Socket.io**, and **Zustand**.Features include real-time messaging, authentication, online user status, media uploads, and much more — all beautifully styled with **TailwindCSS + DaisyUI**.
 
 ---
 
@@ -28,8 +27,6 @@
 ✅ Error handling both on the server and client  
 ✅ Free deployment-ready setup  
 ✅ And much more!
-
----
 
 ---
 
